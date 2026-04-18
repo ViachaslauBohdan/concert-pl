@@ -4,6 +4,8 @@
 
 📊 **Ważne:** daty koncertów i miejsce zamieszkania mogą się zmieniać — przed zakupem biletów sprawdzaj oficjalne strony.
 
+🎫 **Najbliższe koncerty** poniżej: **data**, **miejsce**, **cena od** oraz **link do ogłoszenia** tego wydarzenia na eBilet.pl (pełna strona trasy / koncertu). Przy stanie **kwiecień 2026** tam, gdzie w ofercie nie ma kwoty — wpisano **—**; aktualną cenę potwierdź przy wyborze terminu w sklepie.
+
 ---
 
 ## 🎧 Wokalistki
@@ -16,6 +18,12 @@
 - 📍 **Obecne miejsce zamieszkania:** Warszawa *(zwykle)*
 - 📊 **Aktywność sceniczna:** TOP — Polska + Europa
 - 🎧 **Przebój:** *etc. (na disco)*
+
+- 🎫 **Najbliższy koncert:** trasa *uczta u sanah* (m.in. Lublin, Toruń, Łódź, Kraków, Wrocław, Szczecin, Warszawa).
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *uczta u sanah*](https://www.ebilet.pl/muzyka/pop/sanah/)
 
 **Posłuchaj**
 
@@ -34,6 +42,12 @@
 - 📊 **Aktywność sceniczna:** TOP
 - 🎧 **Przebój:** *Bad Girls*
 
+- 🎫 **Najbliższy koncert:** *Dream Show – Aquaria Tour* (szczegóły terminów w sprzedaży).
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *Dream Show · Aquaria Tour*](https://www.ebilet.pl/muzyka/pop/doda/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Doda)
@@ -50,6 +64,12 @@
 - 📍 **Obecne miejsce zamieszkania:** Warszawa
 - 📊 **Aktywność sceniczna:** wysoka
 - 🎧 **Przebój:** *Cool Me Down*
+
+- 🎫 **Najbliższy koncert:** premiera EP „Body” (wg opisu w sprzedaży: **4 marca 2026**, Warszawa, ul. Mińska 65 — w kwietniu 2026 ten termin jest już przeszły; kolejne ogłoszenia sprawdź na eBilet).
+  - **Data:** — *(aktualny termin w kalendarzu sprzedaży)*
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — premiera EP „Body”](https://www.ebilet.pl/muzyka/pop/margaret/)
 
 **Posłuchaj**
 
@@ -68,6 +88,12 @@
 - 📊 **Aktywność sceniczna:** wysoka
 - 🎧 **Przebój:** *Granda*
 
+- 🎫 **Najbliższy koncert:** *Brodka „O.Sadza”* (terminy w kalendarzu sprzedaży).
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *Brodka „O.Sadza”*](https://www.ebilet.pl/muzyka/pop/brodka/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Brodka)
@@ -84,6 +110,12 @@
 - 📍 **Obecne miejsce zamieszkania:** Warszawa
 - 📊 **Aktywność sceniczna:** wysoka — aktywne trasy i kolaboracje
 - 🎧 **Przebój:** *Prawy do lewego*
+
+- 🎫 **Najbliższy koncert:** *Kayah & Bregović – Huczne Poprawiny 2026* (pierwszy dzień trasy w ofercie eBilet).
+  - **Data:** 24 lipca 2026 r., godz. 20:00
+  - **Miejsce:** m.in. Kielce, Koszalin, Opole, Sopot, Warszawa *(wybierz miasto w sklepie)*
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *Kayah & Bregović · Huczne Poprawiny 2026*](https://www.ebilet.pl/muzyka/pop/kayah-bregovic/)
 
 **Posłuchaj**
 
@@ -102,6 +134,12 @@
 - 📊 **Aktywność sceniczna:** wysoka
 - 🎧 **Przebój:** *Księżniczka*
 
+- 🎫 **Najbliższy koncert:** zapowiedzi tras — konkretny termin w sprzedaży.
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — Sylwia Grzeszczak](https://www.ebilet.pl/muzyka/pop/sylwia-grzeszczak/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Sylwia%20Grzeszczak)
@@ -118,6 +156,12 @@
 - 📍 **Obecne miejsce zamieszkania:** Trójmiasto (Gdańsk / Gdynia) *(często w mediach)*
 - 📊 **Aktywność sceniczna:** rosnąca
 - 🎧 **Przebój:** *Bumerang*
+
+- 🎫 **Najbliższy koncert:** występ w **Klubie Stodoła** (Warszawa) — termin w kalendarzu biletów.
+  - **Data:** —
+  - **Miejsce:** Klub Stodoła, Warszawa
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — koncert · Klub Stodoła](https://www.ebilet.pl/muzyka/pop/natalia-szroeder/)
 
 **Posłuchaj**
 
@@ -136,6 +180,12 @@
 - 📊 **Aktywność sceniczna:** średnia — klasyka polskiego popu
 - 🎧 **Przebój:** *To nie ja*
 
+- 🎫 **Najbliższy koncert:** trasa *Akustycznie* (m.in. Kraków, Katowice, Poznań, Łódź, Wrocław, Gdańsk, Białystok, Kalisz).
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *Akustycznie*](https://www.ebilet.pl/muzyka/pop/edyta-gorniak/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Edyta%20Gorniak)
@@ -153,6 +203,12 @@
 - 📊 **Aktywność sceniczna:** średnia
 - 🎧 **Przebój:** *Tego chciałam*
 
+- 🎫 **Najbliższy koncert:** *„Subtelnie” – trasa akustyczna* (pierwszy termin w katalogu eBilet).
+  - **Data:** 26 listopada 2026 r., godz. 19:00
+  - **Miejsce:** Kielce lub Zabrze *(wybierz termin w sklepie)*
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *„Subtelnie” · trasa akustyczna*](https://www.ebilet.pl/muzyka/pop/ania-dabrowska-koncert/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Ania%20Dabrowska)
@@ -169,6 +225,12 @@
 - 📍 **Obecne miejsce zamieszkania:** nie jest naciskane publicznie
 - 📊 **Aktywność sceniczna:** średnia
 - 🎧 **Przebój:** *My Słowianie*
+
+- 🎫 **Najbliższy koncert:** letnie koncerty nadmorskie (m.in. Kołobrzeg, Rewal, Międzyzdroje, Ustronie Morskie — wg oferty eBilet).
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — letnie koncerty nadmorskie](https://www.ebilet.pl/muzyka/pop/cleo/)
 
 **Posłuchaj**
 
@@ -189,6 +251,12 @@
 - 📊 **Aktywność sceniczna:** TOP
 - 🎧 **Przebój:** *Malomiasteczkowy*
 
+- 🎫 **Najbliższy koncert:** *OBROTOWY TOUR 2026* (najwcześniejszy duży termin w Polsce w ofercie eBilet po 19 kwietnia 2026).
+  - **Data:** 6 czerwca 2026 r., godz. 17:30
+  - **Miejsce:** Chorzów, Superauto.pl Stadion Śląski *(są też inne miasta i daty, m.in. Warszawa 27–28.06)*
+  - **Bilet od:** od **245,90 zł**
+  - **Ogłoszenie:** [eBilet.pl — *OBROTOWY TOUR 2026*](https://www.ebilet.pl/muzyka/pop/dawid-podsiadlo/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Dawid%20Podsiadlo)
@@ -205,6 +273,12 @@
 - 📍 **Obecne miejsce zamieszkania:** Warszawa
 - 📊 **Aktywność sceniczna:** TOP
 - 🎧 **Przebój:** *Polskie Tango*
+
+- 🎫 **Najbliższy koncert:** *Taco Hemingway 2026 †††our* (start części trasy w katalogu eBilet).
+  - **Data:** 8 maja 2026 r., godz. 20:00
+  - **Miejsce:** m.in. Gdańsk/Sopot, Kraków, Warszawa *(wybierz miasto w sklepie)*
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *Taco Hemingway 2026 †††our*](https://www.ebilet.pl/muzyka/pop/taco-hemingway/)
 
 **Posłuchaj**
 
@@ -223,6 +297,12 @@
 - 📊 **Aktywność sceniczna:** wysoka
 - 🎧 **Przebój:** *Kurier*
 
+- 🎫 **Najbliższy koncert:** terminy w sprzedaży — sprawdź kalendarz.
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — Krzysztof Zalewski](https://www.ebilet.pl/muzyka/pop/krzysztof-zalewski/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Krzysztof%20Zalewski)
@@ -239,6 +319,12 @@
 - 📍 **Obecne miejsce zamieszkania:** nie jest naciskane publicznie
 - 📊 **Aktywność sceniczna:** wysoka
 - 🎧 **Przebój:** *2050*
+
+- 🎫 **Najbliższy koncert:** terminy w sprzedaży — sprawdź kalendarz.
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — Bedoes](https://www.ebilet.pl/muzyka/pop/bedoes/)
 
 **Posłuchaj**
 
@@ -257,6 +343,12 @@
 - 📊 **Aktywność sceniczna:** wysoka
 - 🎧 **Przebój:** *Patointegracja*
 
+- 🎫 **Najbliższy koncert:** terminy w sprzedaży — sprawdź kalendarz.
+  - **Data:** —
+  - **Miejsce:** —
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — Mata](https://www.ebilet.pl/muzyka/pop/mata/)
+
 **Posłuchaj**
 
 - [Spotify](https://open.spotify.com/search/Mata%20rapper)
@@ -273,6 +365,12 @@
 - 📍 **Baza:** Warszawa
 - 📊 **Aktywność sceniczna:** TOP
 - 🎧 **Przebój:** *Dziś późno pójdę spać*
+
+- 🎫 **Najbliższy koncert:** *Przesilenie Tour* (pierwszy termin w katalogu eBilet).
+  - **Data:** 19 kwietnia 2026 r., godz. 17:30
+  - **Miejsce:** Gdynia oraz Toruń *(wybierz miasto w sklepie)*
+  - **Bilet od:** — zł
+  - **Ogłoszenie:** [eBilet.pl — *Przesilenie Tour*](https://www.ebilet.pl/muzyka/pop/kwiat-jabloni/)
 
 **Posłuchaj**
 
@@ -292,7 +390,7 @@ Według [afiszy eBilet.pl](https://www.ebilet.pl/muzyka/pop/dawid-podsiadlo/) (s
 | **Miejsce** | **PGE Narodowy** (Stadion Narodowy im. Kazimierza Górskiego), Warszawa |
 | **Kto z listy** | **Dawid Podsiadło** (solowy koncert trasy) |
 
-**Bilety i szczegóły:** [eBilet.pl — Dawid Podsiadło OBROTOWY TOUR 2026](https://www.ebilet.pl/muzyka/pop/dawid-podsiadlo/)
+**Ogłoszenie (Warszawa, PGE Narodowy):** [eBilet.pl — Dawid Podsiadło · OBROTOWY TOUR 2026](https://www.ebilet.pl/muzyka/pop/dawid-podsiadlo/)
 
 *Uwaga: daty, godziny i dostępność biletów mogą się zmieniać — przed zakupem sprawdź aktualną stronę organizatora.*
 
