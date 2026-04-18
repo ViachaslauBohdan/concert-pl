@@ -216,7 +216,7 @@
 
 ### Krzysztof Zalewski
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Krzysztof_Zalewski%2C_Polsat_Hit_Festival_2024_08_%28cropped%29.jpg/960px-Krzysztof_Zalewski%2C_Polsat_Hit_Festival_2024_08_%28cropped%29.jpg" alt="Krzysztof Zalewski" width="400" />
+<img src="assets/krzysztof-zalewski.jpg" alt="Krzysztof Zalewski" width="400" />
 
 - 📍 **Miejsce urodzenia:** Warszawa, Polska
 - 📍 **Obecne miejsce zamieszkania:** Warszawa
