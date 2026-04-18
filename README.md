@@ -163,7 +163,7 @@
 
 ### Cleo
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cleo%2C_Stary_Mane%C5%BC%2C_17.02.2024_05_%28cropped%29.jpg/960px-Cleo%2C_Stary_Mane%C5%BC%2C_17.02.2024_05_%28cropped%29.jpg" alt="Cleo" width="400" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cleo_2020_Viva.jpg/960px-Cleo_2020_Viva.jpg" alt="Cleo" width="400" />
 
 - 📍 **Miejsce urodzenia:** Stargard, Polska
 - 📍 **Obecne miejsce zamieszkania:** nie jest naciskane publicznie
@@ -216,7 +216,7 @@
 
 ### Krzysztof Zalewski
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Krzysztof_Zalewski%2C_Polsat_Hit_Festival_2024_08.jpg/960px-Krzysztof_Zalewski%2C_Polsat_Hit_Festival_2024_08.jpg" alt="Krzysztof Zalewski" width="400" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Krzysztof_Zalewski%2C_Polsat_Hit_Festival_2024_08_%28cropped%29.jpg/960px-Krzysztof_Zalewski%2C_Polsat_Hit_Festival_2024_08_%28cropped%29.jpg" alt="Krzysztof Zalewski" width="400" />
 
 - 📍 **Miejsce urodzenia:** Warszawa, Polska
 - 📍 **Obecne miejsce zamieszkania:** Warszawa
@@ -267,7 +267,7 @@
 
 ### Kwiat Jabłoni
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fryderyki_2024_011.jpg/960px-Fryderyki_2024_011.jpg" alt="Kwiat Jabłoni" width="400" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kwiat_Jab%C5%82oni%2C_Top_of_the_Top_Festival_2024_03.jpg/960px-Kwiat_Jab%C5%82oni%2C_Top_of_the_Top_Festival_2024_03.jpg" alt="Kwiat Jabłoni" width="400" />
 
 - 📍 **Miejsce założenia:** Warszawa
 - 📍 **Baza:** Warszawa
